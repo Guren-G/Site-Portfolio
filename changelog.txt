@@ -1,0 +1,3 @@
+Hormis quelques changements liés à la couleur et l'implémentation d'une image de fond, l'un des principaux changements repose sur l'incrustation d'une favicon, conçue par mes soins.
+
+Un bouton permettant de remonter vers le sommet du site a été également ajouté.
